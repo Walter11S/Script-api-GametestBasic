@@ -1,0 +1,3 @@
+mojang-minecraft = @minecraft/server
+mojang-gametest = @minecraft/server-gametest
+mojang-minecraft-ui = @minecraft/server-ui
